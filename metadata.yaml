@@ -1,5 +1,5 @@
 _repo: The-Youth-of-the-Great-Elector_59929
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Upton, George P. (George Putnam)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 59929-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmidt, Ferdinand
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '50540'
     url: http://www.gutenberg.org/2009/agents/50540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59929#The-Youth-of-the-Great-Elector
 gutenberg_issued: '2019-07-17'
 gutenberg_type: Text
 identifiers:
